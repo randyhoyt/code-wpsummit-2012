@@ -1,7 +1,7 @@
-Randy Hoyt
-randy@randyhoyt.com
-http://randyhoyt.com
-@randyhoyt
+Randy Hoyt  
+randy@randyhoyt.com  
+http://randyhoyt.com  
+@randyhoyt  
 
 
 === OVERVIEW ===
