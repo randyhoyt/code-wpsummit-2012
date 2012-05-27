@@ -1,0 +1,12 @@
+/*
+Theme Name:     EMAC 3361
+Description:    Custom theme used for EMAC 3361 course web site (a child theme of Twenty Eleven) 
+Author:         Randy Hoyt
+Author URI:     http: //randyhoyt.com/
+Template:       twentyeleven
+*/
+
+@import url("../twentyeleven/style.css");
+
+.widget ul.upcoming li {text-indent: -50px; padding-left: 50px;}
+.widget ul.upcoming a {font-weight: normal;}
